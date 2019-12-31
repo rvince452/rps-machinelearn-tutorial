@@ -16,3 +16,8 @@ The importance of saving game history
 Representing a single game of RPS
 Representing a collection of games (game history)
 
+### Tutorial Four
+Introduction to Pandas DataFrame class
+Use DataFrame to store game history
+Generating random play
+
