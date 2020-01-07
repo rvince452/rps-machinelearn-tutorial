@@ -21,3 +21,8 @@ I document my attempt in a series of self-tutorials, each a Jupyter Notebook, ea
 * Use DataFrame to store game history
 * Generating random play
 
+### Tutorial Five
+* Explore visualizing and analyzing data
+* Introduction to Decision Tree algorithm
+* Write a Decision Tree which predicts the outcome of a RPS game
+
