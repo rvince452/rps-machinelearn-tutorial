@@ -26,3 +26,8 @@ I document my attempt in a series of self-tutorials, each a Jupyter Notebook, ea
 * Introduction to Decision Tree algorithm
 * Write a Decision Tree which predicts the outcome of a RPS game
 
+### Tutorial  Six
+* Create features from our RPS games
+* Apply a Decision Tree to our data
+* Evaluate the resulting algorithm
+
